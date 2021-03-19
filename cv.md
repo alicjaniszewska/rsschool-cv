@@ -55,7 +55,7 @@ Bachelor’s degree, Mining and geology · (2015 - 2019)<br>
 3. Spanisch (Elementary)<br>
 4. Englisch (Intermediate level)<br>
 
-## Certifications
+## Certifications 🥇
 
 •	Agile PM® Agile Project Management Foundation<br>
 •	IPMA-Student<br>
