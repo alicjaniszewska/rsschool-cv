@@ -1,14 +1,14 @@
-### Alicja Janiszewska 👩‍🎓
+## Alicja Janiszewska 👩‍🎓
 
 <p class="text-justify"> Enthusiastic Power Engineering and Mining Engineering student with a clear understanding of mining and mineral processing. She’s good in using the complex thermal and flow issues in energy systems, being able to perform the energy balances of complex energy systems, and drawing up specifications and design machines, equipment, and energy systems. Motivated to learn, grow, and excel in the mining and power engineering sector. In the studies she extended the benefit from everything she could. She was an active member of the Student Government, where she learned to  organize conferences, manage projects, collaborate with people, get sponsors etc. Because of her love for languages,  she went abroad on an Erasmus exchange – to Barcelona in 2020. In Barcelona she studied Power Engineering at the Technical University of Technology of Catalunya (UPC), in Barcelona, for half year. Lliving in a foreign city, in a foreign country, taught her to be independent, and  to cope with difficult, unforeseen situations.</p> 
 
 
-## CONTACT ☎️
+### CONTACT ☎️
 
 ✉️<janisz.alicja@gmail.com><br>
 🔗**[LinedIN](www.linkedin.com/in/alicja-janiszewska-3b77b41a9)**
 
-## EXPERIENCE 👷‍♀️
+### EXPERIENCE 👷‍♀️
 
 **FACILITY ENGINEER**<br>
 LG Energy Solutions<br>
@@ -26,7 +26,7 @@ Sep 2018 - Sep 2018 (1 month)<br>
 Strzegom, Woj. Dolnośląskie, Polska<br>
 
 
-## EDUCATION 🏫
+### EDUCATION 🏫
 
 **Universitat Politècnica de Catalunya**<br>
 Master's degree, Power Engineering · (2020 - 2020)<br>
@@ -39,7 +39,7 @@ faculty: refrigeration, heating and air conditioning<br>
 **Wrocław University of Science and Technology**<br>
 Bachelor’s degree, Mining and geology · (2015 - 2019)<br>
 
-## Main skills: 
+### Main skills: 
 
 •	Project Management;<br>
 •	Soft skills in project management;<br>
@@ -49,13 +49,13 @@ Bachelor’s degree, Mining and geology · (2015 - 2019)<br>
 •	SUPPORT PROGRAMS: AutoCad, Office Microsoft, Matlab, ArcGis, photoshop, Ansys, MathCad.<br>
 •	**HTML, CSS, JS, Wordpress**
 
-## Languages 
+### Languages 
 
 1. Gegerman (Intermediate level)<br>
 3. Spanisch (Elementary)<br>
 4. Englisch (Intermediate level)<br>
 
-## Certifications 🥇
+### Certifications 🥇
 
 •	Agile PM® Agile Project Management Foundation<br>
 •	IPMA-Student<br>
